@@ -1,0 +1,12 @@
+pkgbase = mario
+    pkgver = 3.3
+    pkgrel = 3
+    epoch = 0
+    arch = x86_64
+    license = GPL
+    depends = pkgfile
+    depends = yaourt
+    source = mario-3.3.tar.gz
+
+pkgname = mario
+

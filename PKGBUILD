@@ -26,7 +26,7 @@ install=
 changelog=
 source=(https://github.com/sblu/mario/archive/1.0.zip)
 noextract=()
-md5sums=(3a9f009f916f435af1742d1bc01a2ada)
+md5sums=(42dcccfaa75828eb71c57b4210b41713)
 
 prepare() {
     echo "Preparing..."

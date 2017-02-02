@@ -5,7 +5,7 @@
 
 # Maintainer: Salty Blu <s.blu24@gmail.com>
 pkgname=mario
-pkgver=1.0
+pkgver=1.0.1
 pkgrel=1
 epoch=0
 pkgdesc=""
@@ -24,9 +24,9 @@ backup=()
 options=()
 install=
 changelog=
-source=(https://github.com/sblu/mario/archive/1.0.zip)
+source=(https://github.com/sblu/mario/archive/$pkgver.zip)
 noextract=()
-md5sums=(42dcccfaa75828eb71c57b4210b41713)
+md5sums=(e287b4d2916ab397023a547752a81faf)
 
 prepare() {
     echo "Preparing..."
